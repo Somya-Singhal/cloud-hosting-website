@@ -332,7 +332,7 @@ a {
 }
 
 .plan--popular .card__header::before {
-  content: url(../images/);
+  content: url(../images/popular.svg);
   width: 40px;
   display: inline-block;
   position: absolute;
